@@ -24,7 +24,7 @@ public files from the authors' repository at the fixed commit below.
 
 ```bash
 git clone https://github.com/epifluidlab/headneck.git
-git clone <URL-OF-THIS-REPOSITORY>
+git clone https://github.com/ALEX19920205/JCI196284-letter-reanalysis.git
 
 cd headneck
 git checkout dcc7a36a46f3d36e34992b08db8a57f0d24aef85
